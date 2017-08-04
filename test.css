@@ -1,0 +1,17 @@
+#table-header {
+    font-weight: bold;
+}
+
+.table {
+    padding: 20px;
+    background-color: lightcyan;
+}
+
+.text {
+    padding: 20px;
+}
+
+.titles {
+    text-align: center;
+    background-color: lightgray;
+}
